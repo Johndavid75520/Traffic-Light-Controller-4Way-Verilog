@@ -67,7 +67,7 @@ Traffic_Light_Controller_4Way/
 ## 👤 Author
 *John David*  
 📧 vadapallijohndavid@gmail.com  
-💼 [LinkedIn Profile](www.linkedin.com/in/vadapalli-john-david)
+💼 www.linkedin.com/in/vadapalli-john-david
 
 ---
 
